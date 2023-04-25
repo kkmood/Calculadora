@@ -78,12 +78,8 @@ public class Calculadora {
                     System.out.println("Saindo...");
                     System.exit(0);
                     break;
-
-                    default:
-                    System.out.println("Opção inválida");
                 
                 }
             }
     }   
 }
-
